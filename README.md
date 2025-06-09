@@ -17,7 +17,7 @@
       npm install    
    - ```bash   
       npm run dev
-3. Запустите клиента:
+3. Запуск клиента:
     - ```bash
       npm install    
    - ```bash   
