@@ -14,10 +14,11 @@
    git clone https://github.com/matveev-v-m/personal-notes.git
 2. Перейдите в папку server и выполните команды:
    - ```bash
-      npm install
-    
-    ```bash   
-    npm run dev
-3. Запустите проект:
-    ```bash
-    npm run dev
+      npm install    
+   - ```bash   
+      npm run dev
+3. Запустите клиента:
+    - ```bash
+      npm install    
+   - ```bash   
+      npm run dev
